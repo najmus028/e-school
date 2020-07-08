@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    scroll-behavior: smooth;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+#header {
+    background-color: #F0FFF0;
+}
+
+.nav-item {
+    margin-right: 25px;
+}
+
+.all-btn {
+    background-color: #21B573;
+    padding: 8px 20px;
+    border-radius: 18px;
+    border: none;
+    color: white;
+    transition: all linear .3s;
+}
+
+.all-btn:hover {
+    border: 2px solid #21B573;
+    border-radius: 18px;
+    color: #21B573;
+    background-color: transparent;
+    transition: all linear .3s;
+}
+
+#banner {
+    background-color: #F0FFF0;
+    height: 476px;
+    margin-bottom: 60px;
+}
+
+
+.banner-content {
+    padding-top: 60px;
+}
+
+.colored-p {
+    color: #FD511A;
+}
+
+.colored-h1 {
+    color: #21B573
+}
+
+#card {
+    margin-bottom: 60px;
+}
+
+.card-content {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #F8FFFB;
+    border-radius: 15px;
+}
+
+.card-content img,
+h4 {
+    margin-bottom: 20px;
+}
+
+.card-highlight {
+    box-shadow: 2px 2px 20px lightgray;
+    background-color: white;
+}
+
+.caption {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.online-courses-content {
+    padding: 15px 15px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 20px lightgray;
+}
+
+.online-courses-text button {
+    margin-bottom: 30px;
+}
+
+.footer-image {
+    height: 25px;
+    width: 30px;
+    padding-right: 5px;
+}
+
+.online-courses-footer p {
+    font-size: 16px;
+}
+
+.online-courses-content img {
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+#online-courses {
+    margin-bottom: 60px;
+}
+
+#testimonial {
+    margin-bottom: 60px;
+}
+
+.testimonial-content p {
+    margin-left: 60px;
+}
+
+.testimonial-content {
+    margin: 0 auto;
+}
+
+.testimonial-content img {
+    height: 150px;
+    width: 150px;
+}
+
+#subscribe {
+    margin-bottom: 60px;
+}
+
+.subscribe-form {
+    background-color: #F8FFFB;
+    border: none;
+    border-radius: 20px;
+    height: 300px;
+    text-align: center;
+}
+
+#footer {
+    background-color: #282531;
+    color: #fff;
+}
+
+.footer-content {
+    padding: 40px 0;
+}
+
+.footer-copyright p {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.footer-content ul li a {
+    text-decoration: none;
+    color: #fff;
+}
